@@ -1,0 +1,28 @@
+.sidebarLeft{
+    width: 300px;
+    height: 80vh;
+    float: left;
+}
+.category{
+    margin: 10px;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+.loadBtn{
+    background: #19a719;
+    border: unset;
+    color: white;
+    font-size: 18px;
+    padding: 22px 25px;
+}
+
+.categoryBtn{
+    background: #a71944;
+    border: unset;
+    color: white;
+    font-size: 18px;
+    padding: 22px 25px;
+    width: 225px;
+    margin-top: 20px;
+}
